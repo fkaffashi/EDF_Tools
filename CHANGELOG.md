@@ -2,7 +2,7 @@
 
 * Enhancements
   * Added the CHANGELOG
-
+  * Added the README
 
 ## 0.0.0
 
