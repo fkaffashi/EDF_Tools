@@ -26,4 +26,4 @@ Contributing to EDF Tools
 Copyright [GNU LICENSE](http://www.gnu.org/licenses/)
 -----------------------------------------------------
 
-Copyright (c) 2012 Case Western Reserve University. See [LICENSE](https://github.com/fkaffashi/EDF_Tools/tree/0.1.0/LICENSE) for further details.
+Copyright (c) 2012 Case Western Reserve University. See [LICENSE](https://github.com/fkaffashi/EDF_Tools/blob/0.1.0/LICENSE) for further details.
